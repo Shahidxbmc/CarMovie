@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tv</title>
+</head>
+<body>
+
+<h1><a href=https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8 > cinema </a></h1>
+
+
+<h1><a href=https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8 > mbc masr</a></h1>
+
+<h1><a href=https://edge66.magictvbox.com/liveApple/zamalik/tracks-v1a1/mono.m3u8?token=cf3b180a1d6bf1e5af653a6eb7069b09> zamalek</a></h1>
+
+<h1><a href=https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8 > cinema </a></h1>
+
+
+<h1><a href=https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8 > mbc masr</a></h1>
+
+<h1><a href=https://edge66.magictvbox.com/liveApple/zamalik/tracks-v1a1/mono.m3u8?token=cf3b180a1d6bf1e5af653a6eb7069b09> zamalek</a></h1>
+
+<h1><a href=https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8 > cinema </a></h1>
+
+
+<h1><a href=https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8 > mbc masr</a></h1>
+
+<h1><a href=https://edge66.magictvbox.com/liveApple/zamalik/tracks-v1a1/mono.m3u8?token=cf3b180a1d6bf1e5af653a6eb7069b09> zamalek</a></h1>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
