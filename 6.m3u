@@ -1,0 +1,301 @@
+﻿#EXTM3U
+
+
+
+#EXTINF:-1, jazeera english
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8 
+
+#EXTINF:-1,jazeera arabic
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8 
+
+#EXTINF:-1,alaraby
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8 
+
+#EXTINF:-1,jazeera documentry
+http://95.216.180.111:1935/live/111/chunklist.m3u8 
+
+#EXTINF:-1, nationla geo
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8 
+
+
+#EXTINF:-1, nationla geo
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8 
+
+#EXTINF:-1,dawaa
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/2.m3u8 
+#EXTINF:-1,mehwar
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/4.m3u8 
+#EXTINF:-1,fajr
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/5.m3u8 
+#EXTINF:-1,naharalg
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/6.m3u8 
+#EXTINF:-1,nessma
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/7.m3u8 
+#EXTINF:-1,nbn
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/9.m3u8 
+#EXTINF:-1,nilesp
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/11.m3u8 
+#EXTINF:-1,niledr
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/12.m3u8 
+#EXTINF:-1,nahardrama
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/15.m3u8 
+#EXTINF:-1,cima
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/16.m3u8 
+#EXTINF:-1,food
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/18.m3u8 
+#EXTINF:-1,sada2
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/19.m3u8 
+#EXTINF:-1,sadadr
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/20.m3u8 
+#EXTINF:-1,jordonsp
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/21.m3u8 
+#EXTINF:-1,b4up
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/22.m3u8 
+#EXTINF:-1,b4u
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/23.m3u8 
+#EXTINF:-1,kahera
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/24.m3u8 
+#EXTINF:-1,kahera2
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/25.m3u8 
+#EXTINF:-1,sama
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/26.m3u8 
+#EXTINF:-1,hayatdrama
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/27.m3u8 
+#EXTINF:-1,mix
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/28.m3u8 
+#EXTINF:-1,baraem2
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/29.m3u8 
+#EXTINF:-1,nileli
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/30.m3u8 
+#EXTINF:-1,alnas
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/31.m3u8 
+#EXTINF:-1,KSAsp
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/32.m3u8 
+#EXTINF:-1,omdu
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/33.m3u8 
+#EXTINF:-1,sada
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/34.m3u8 
+#EXTINF:-1,nileci
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/35.m3u8 
+#EXTINF:-1,nileco
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/36.m3u8 
+#EXTINF:-1,kass2
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/38.m3u8 
+#EXTINF:-1,on time2
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/39.m3u8 
+#EXTINF:-1,نور الشام
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/41.m3u8 
+#EXTINF:-1,zee al
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/42.m3u8 
+#EXTINF:-1,masr 1
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/43.m3u8 
+#EXTINF:-1,masr 2
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/44.m3u8 
+#EXTINF:-1,ahly
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/48.m3u8 
+#EXTINF:-1,SSC2
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/49.m3u8 
+#EXTINF:-1,on drama
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/51.m3u8 
+#EXTINF:-1,cbc so
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/52.m3u8 
+#EXTINF:-1,news1
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/53.m3u8 
+#EXTINF:-1,maspero
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/55.m3u8 
+#EXTINF:-1,palastine spo
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/57.m3u8 
+#EXTINF:-1,حنبعل
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/58.m3u8 
+#EXTINF:-1,hadaf
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/59.m3u8 
+#EXTINF:-1,ajeal
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/60.m3u8 
+#EXTINF:-1,معا
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/61.m3u8 
+#EXTINF:-1,on time 3
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/63.m3u8 
+#EXTINF:-1,on sport
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/68.m3u8 
+#EXTINF:-1,quran fm
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/74.m3u8 
+#EXTINF:-1,الشباب والرياضة
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/75.m3u8 
+#EXTINF:-1,mb5
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/80.m3u8 
+#EXTINF:-1,carto
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/83.m3u8 
+#EXTINF:-1,سينما السعودية
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/85.m3u8 
+#EXTINF:-1,mb dram
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/86.m3u8 
+#EXTINF:-1,iraq
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/88.m3u8 
+#EXTINF:-1,wanas
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/89.m3u8 
+#EXTINF:-1,otv2
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/92.m3u8 
+#EXTINF:-1,ALG3
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/97.m3u8 
+#EXTINF:-1,AULA
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/98.m3u8 
+#EXTINF:-1,mtv11
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/101.m3u8 
+#EXTINF:-1,سينما مصر1
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/102.m3u8 
+#EXTINF:-1,mbc3
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/103.m3u8 
+#EXTINF:-1,mbc4
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/104.m3u8 
+#EXTINF:-1,mbc2
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/105.m3u8 
+#EXTINF:-1,action1
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/106.m3u8 
+#EXTINF:-1,mbc 1
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/107.m3u8 
+#EXTINF:-1,MBC boll1
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/108.m3u8 
+#EXTINF:-1,mb masr
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/109.m3u8 
+#EXTINF:-1,mb masr2
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/110.m3u8 
+#EXTINF:-1,cbc dr
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/111.m3u8 
+#EXTINF:-1,on1
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/112.m3u8 
+#EXTINF:-1,mbc max
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/113.m3u8 
+#EXTINF:-1,DMC
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/115.m3u8 
+#EXTINF:-1,jadeed1
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/116.m3u8 
+#EXTINF:-1,dmc drama
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/117.m3u8 
+#EXTINF:-1,alg
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/119.m3u8 
+#EXTINF:-1,mix arab
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/120.m3u8 
+#EXTINF:-1,afaq
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/124.m3u8 
+#EXTINF:-1,rotana dr
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/125.m3u8 
+#EXTINF:-1,on time1
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/127.m3u8 
+#EXTINF:-1,testshahid
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/128.m3u8 
+#EXTINF:-1,mas222
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/130.m3u8 
+#EXTINF:-1,space
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/131.m3u8 
+#EXTINF:-1,mb dram plus
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/133.m3u8 
+#EXTINF:-1,kids
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/134.m3u8 
+#EXTINF:-1,Abu Dhabi Drama
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/135.m3u8 
+#EXTINF:-1,ten
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/136.m3u8 
+#EXTINF:-1,zee af
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/137.m3u8 
+#EXTINF:-1,funoon
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/138.m3u8 
+#EXTINF:-1,hayattt
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/139.m3u8 
+#EXTINF:-1,zamalek1
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/140.m3u8 
+#EXTINF:-1,nahar1
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/141.m3u8 
+#EXTINF:-1,syriadra
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/142.m3u8 
+#EXTINF:-1,cbc
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/143.m3u8 
+
+#EXTINF:-1 tvg-ID="masr" tvg-name="masr" tvg-logo="" group-title="masr",on 1
+https://free1.freechannelsonly.xyz:2083/live/live/u7JewhWwuWkS/BRBRyWDNUEr6/127.m3u8 ?token=QhJdV0ZbEQhDUw0LUgReVgNWBgdVCFcMVl0CWQVVW1dbAlAHBQNRVFMUGBEXFUpQA11sXgUaCwlXUhlDRRcGRGZZURQPEQAQTRRAWgkEGg9SHBFHCFwTAkdWDFYJRk8UXEhBU0ddUl4+UlFFDQJdF1heRlsNFBNXCzpRBF0FDVIbChcGFx8RWxJGFgkKFFRZThJRXhVKUEwARw9DAVRTBRscF1VaRl1GE08WCUY0axdOElZPFV1fSwwKW0MKRg4FTAgXGhdaQG0TU0dHFgRZWAdCEQ1DCBMURwhUGW8HDFhXVVZCXFxdQUMMFgNGTRpYDV5aQw5KbkgMARdbElVVBgEGF0s=
+
+#EXTINF:-1 tvg-ID="masr" tvg-name="masr" tvg-logo="" group-title="masr",mbc2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzEyNzQ2NiwiaWF0IjoxNjA3MDkxNDY2LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYzItcHJvZC1kdWIuc2hhaGlkLm5ldC9vdXQvdjEvYjRiZWZlMTk3OTg3NDVmZTk4NmY1YTliZmJhNjIxMjYvaW5kZXgubTN1OD9maWx0ZXI9MTQ0XzEwODAifQ.nYl3W6O6ExjveDMT2c-Vo1GaeD4l-R0V3qoEvY4Lpvk
+
+#EXTINF:-1 tvg-ID="masr" tvg-name="masr" tvg-logo="" group-title="masr",rotana drama
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzEyODQ3OSwiaWF0IjoxNjA3MDkyNDc5LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLXJvdGFuYWRyYW1hLXByb2QtZHViLnNoYWhpZC5uZXQvb3V0L3YxLzIwYzYxN2I0MGRjNzQzNTg5ZWNjOWQwOGQ5ZDMzNDVkL2luZGV4Lm0zdTg_ZmlsdGVyPTE0NF8xMDgwIn0.u_8OZVct77_k9cLYkorGe7I5FBATwzTNKjX8Ad0pmv8
+
+#EXTINF:-1 tvg-ID="masr" tvg-name="masr" tvg-logo="" group-title="masr",mbc4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzEyODU4MywiaWF0IjoxNjA3MDkyNTgzLCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYzQtcHJvZC1kdWIuc2hhaGlkLm5ldC9vdXQvdjEvYzA4NjgxZjgxNzc1NDk2YWI0YWZhMmJhYzdhZTc2MzgvaW5kZXgubTN1OD9maWx0ZXI9MTQ0XzEwODAifQ.fjLOMpPMfOatiqr5MibHmg3P0btP-N6Y27XcswKgSBU
+
+#EXTINF:-1 tvg-ID="" tvg-name="shsb" tvg-logo="" group-title="",mbc  max
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzEyODc5NCwiaWF0IjoxNjA3MDkyNzk0LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iY21heC1wcm9kLWR1Yi5zaGFoaWQubmV0L291dC92MS8xMzgxNWE3Y2RhODY0YzI0OWE4OGMzOGU2NmEyZTY1My9pbmRleC5tM3U4P2ZpbHRlcj0xNDRfMTA4MCJ9.OXBZFaQ09jbw_zYviwazXQ2b6i1hT_dpXRBZG7deB5g
+
+#EXTINF:-1 tvg-ID="" tvg-name="jgjk" tvg-logo="" group-title="",mbc action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzEyOTQ4MSwiaWF0IjoxNjA3MDkzNDgxLCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iY2FjdGlvbi1wcm9kLWR1Yi5zaGFoaWQubmV0L291dC92MS82OGRkNzYxNTM4ZTU0NjAwOTZjNDI0MjIxOTlkMDUwYi9pbmRleC5tM3U4P2ZpbHRlcj0xNDRfMTA4MCJ9.6N7ARJRvhGhRI0TOdYk4Ec5rtplZ9ogZOhc_WDBbJA8
+
+#EXTINF:-1 tvg-ID="" tvg-name="jgjk" tvg-logo="" group-title="",rotana cinema
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzEyOTU5NCwiaWF0IjoxNjA3MDkzNTk0LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLXJvdGFuYWNpbmVtYS1rc2EtcHJvZC1kdWIuc2hhaGlkLm5ldC9vdXQvdjEvNmNlZTFjNTdlYTc4NDFlNjk3ZWIxNWNlZmM5OGUwYTYvaW5kZXgubTN1OD9maWx0ZXI9MTQ0XzEwODAifQ.hEuy78IlwCRXBRmapYVUNPunk-FaIaLNpxD3g6Ji2XA
+
+#EXTINF:-1 tvg-ID="" tvg-name="jgjk" tvg-logo="" group-title="",rotana plus
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzEyOTY3OSwiaWF0IjoxNjA3MDkzNjc5LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLXJvdGFuYXBsdXMtcHJvZC1kdWIuc2hhaGlkLm5ldC9vdXQvdjEvMWZjNjEwMzQ1OGJlNDgwYjk2ZTZhNTc0YjAwZmUxYzAvaW5kZXgubTN1OD9maWx0ZXI9MTQ0XzEwODAifQ.uN0FzoXxdQ7uueIIS89SoJ62_vMEU5U8HWsPZGS7oOE
+
+#EXTINF:-1 tvg-ID="" tvg-name="jgjk" tvg-logo="" group-title="",rotana classic
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzEyOTcyNiwiaWF0IjoxNjA3MDkzNzI2LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLXJvdGFuYWNsYXNzaWMtcHJvZC1kdWIuc2hhaGlkLm5ldC9vdXQvdjEvNGVlYmVkMjExYzg0NDEyMjgzMjFiNGY2N2E0NmM1YTUvaW5kZXgubTN1OD9maWx0ZXI9MTQ0XzEwODAifQ.NsdOUkmNyvTrA1B8paQfc8nSfgM8no9IM2pwSwUaQfk
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="jgjk" tvg-logo="" group-title="",rotana lbc
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzEyOTk0MCwiaWF0IjoxNjA3MDkzOTQwLCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLWxiY2ktcHJvZC1kdWIuc2hhaGlkLm5ldC9vdXQvdjEvZDhjY2UzMDAzNmU3NDMzMThhN2YzMzg1Mzk2ODk5NjgvaW5kZXgubTN1OD9maWx0ZXI9MTQ0XzEwODAifQ.TdIzIAO86zq8Dby-wIdFmeh8cPG2taU-1dZiRlXq17Q
+
+#EXTINF:-1 tvg-ID="" tvg-name="jgjk" tvg-logo="" group-title="",rotana drama plus
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzEzMTAzNiwiaWF0IjoxNjA3MDk1MDM2LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iY3BsdXNkcmFtYS1wcm9kLWR1Yi5zaGFoaWQubmV0L291dC92MS85N2NhMGNlNmZjNjE0MmY0YjE0YzBhNjk0YWY1OWVhYi9pbmRleC5tM3U4P2ZpbHRlcj0xNDRfMTA4MCJ9.3mxmCp8f4Vit6aHqLu7wDFOKZTWPa6P89d4JPJaYXWU
+
+#EXTINF:-1 tvg-ID="masr" tvg-name="masr" tvg-logo="" group-title="masr",mbc1
+https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzE0OTIzMiwiaWF0IjoxNjA3MTEzMjMyLCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYzEtdXNhLXByb2Quc2hhaGlkLm5ldC9vdXQvdjEvMWI1NTllODMyYzNmNDBmOTk2YzE5ODQyNDViM2IyNGIvaW5kZXgubTN1OD9maWx0ZXI9MTQ0XzEwODAifQ.Q5hZZr9ZanWWRSdKkLdOxBtDlMtIobqa3b_AWPM4kPU
+
+#EXTINF:-1 tvg-ID="masr" tvg-name="masr" tvg-logo="" group-title="masr",mbc iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzE0OTAwNiwiaWF0IjoxNjA3MTEzMDA2LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLWlyYXEtcHJvZC1kdWIuc2hhaGlkLm5ldC9vdXQvdjEvYzliZjFlODdlYTY2NDc4YmIyMGJjNWM5M2M5ZDQxZWEvaW5kZXgubTN1OD9maWx0ZXI9MTQ0XzEwODAifQ.xxaMpizEMIASfdjQiiTdAPGtoMpwxlBqKbu6mTePXOM
+
+
+#EXTINF:-1 tvg-ID="masr" tvg-name="masr" tvg-logo="" group-title="masr",mbc drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzE0OTA1MCwiaWF0IjoxNjA3MTEzMDUwLCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iY2RyYW1ha3NhLXByb2QtZHViLnNoYWhpZC5uZXQvb3V0L3YxL2NlMGYwNzYyZDg5ZTQzOTRhODU2YzVmZDEzZTQzNjQ1L2luZGV4Lm0zdTg_ZmlsdGVyPTE0NF8xMDgwIn0.RI-cpxWWmfqtWgPr56FmW_n1U9nfFMJECev99zQ3U0E
+
+
+#EXTINF:-1 tvg-ID="masr" tvg-name="masr" tvg-logo="" group-title="masr",mbc3
+https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzE0OTI5MSwiaWF0IjoxNjA3MTEzMjkxLCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYzMtdXNhLXByb2Quc2hhaGlkLm5ldC9vdXQvdjEvZjc1ODRmNTBkMTNjNGMwMWIwZmFjMmJlMDRjNjFjN2UvaW5kZXgubTN1OD9maWx0ZXI9MTQ0XzEwODAifQ.eZWqj-Y6oA7fCjp5PZS7gOPAiglWQrz25qsKww12OEk
+
+
+#EXTINF:-1 tvg-ID="masr" tvg-name="masr" tvg-logo="" group-title="masr",arabiya
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzE0OTMxOSwiaWF0IjoxNjA3MTEzMzE5LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLWFsYXJhYml5YS1wcm9kLWR1Yi5zaGFoaWQubmV0L291dC92MS9mNWYzMTkyMDZlZDc0MGY5YTgzMWYyMDk3YzJlYWQyMy9pbmRleC5tM3U4P2ZpbHRlcj0xNDRfMTA4MCJ9.BGO33vf3TmZydKEiC4aPiHp_ch8ii6ye_IwNCpDv1ko
+
+
+#EXTINF:-1 tvg-ID="masr" tvg-name="masr" tvg-logo="" group-title="masr",mbc5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzE0OTM0MywiaWF0IjoxNjA3MTEzMzQzLCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYzUtcHJvZC1kdWIuc2hhaGlkLm5ldC9vdXQvdjEvMjcyMDU2NGI2YTQ2NDE2NThmZGZiNjg4NGIxNjBkYTIvaW5kZXgubTN1OD9maWx0ZXI9MTQ0XzEwODAifQ.LzFM2Gf8pll4eXeZ6W1deIddMFybTNRZRY4GHEfdsr0
+
+#EXTINF:-1 tvg-ID="masr" tvg-name="masr" tvg-logo="" group-title="masr",mbc masr
+https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzE0OTM4MiwiaWF0IjoxNjA3MTEzMzgyLCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYy1tYXNyLXVzYS1wcm9kLnNoYWhpZC5uZXQvb3V0L3YxL2Q0ZmRlZDdkNWRmMDRiODhiOWVhMWRiNjFkMDBmMDk1L2luZGV4Lm0zdTg_ZmlsdGVyPTE0NF8xMDgwIn0.b5GJLvGaxQdW6DzpuUp3vEKvEQQ7vmRq2JoGNj7tmpw
+
+#EXTINF:-1 tvg-ID="masr" tvg-name="masr" tvg-logo="" group-title="masr",mbc masr eg
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzE0OTYzNiwiaWF0IjoxNjA3MTEzNjM2LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1hc3ItcHJvZC1kdWIuc2hhaGlkLm5ldC9vdXQvdjEvYjcwOTM0MDFkYTI3NDk2Nzk3YTg5NDlkZTIzZjQ1NzgvaW5kZXgubTN1OD9maWx0ZXI9MTQ0XzEwODAifQ.T6dX68eijP3mgMNq9fCDZlybJtDely3gvkxQDslM9Vs
+
+#EXTINF:-1 tvg-ID="masr" tvg-name="masr" tvg-logo="" group-title="masr",mbc masr-two
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwNzE0OTU5MSwiaWF0IjoxNjA3MTEzNTkxLCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1hc3IyLXByb2QtZHViLnNoYWhpZC5uZXQvb3V0L3YxL2Y2ODM2ODUyNDJiNTQ5ZjQ4ZWE4YTUxNzFlM2U5OTNhL2luZGV4Lm0zdTg_ZmlsdGVyPTE0NF8xMDgwIn0.KsQJ1K2aqIWvIQwzIS3_7Pqb8_eatrHeOqdoQvSRIms
+
+
+
+
+
+#EXTINF:-1 tvg-ID="masr" tvg-name="masr" tvg-logo="" group-title="masr",mbc1 eg
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwODUyMDk3NCwiaWF0IjoxNjA4NDg0OTc0LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYzFrc2EtcHJvZC1kdWIuc2hhaGlkLm5ldC9vdXQvdjEvNDUxYjY2NmRiMWZiNDFjN2E0YmJlY2Y3YjQ4NjUxMDcvaW5kZXgubTN1OD9maWx0ZXI9MTQ0XzEwODAifQ.K6JDaULnK3b26MZTBYKKnMUaX3Ns8LX1y-o78z0f6cc
+
+
+#EXTINF:-1 tvg-ID="masr" tvg-name="masr" tvg-logo="" group-title="masr",mbc 4 eg
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwODUyMTIyNywiaWF0IjoxNjA4NDg1MjI3LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLW1iYzQtcHJvZC1kdWIuc2hhaGlkLm5ldC9vdXQvdjEvYzA4NjgxZjgxNzc1NDk2YWI0YWZhMmJhYzdhZTc2MzgvaW5kZXgubTN1OD9maWx0ZXI9MTQ0XzEwODAifQ.z4cA6Cmy5e8Qs5s2H2GrjVzFAuGGFWv8sY8KbVhTr1Q
+
+#EXTINF:-1 tvg-ID="masr" tvg-name="masr" tvg-logo="" group-title="masr",mbc cartoon
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwODUyMTcxMSwiaWF0IjoxNjA4NDg1NzExLCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLWNhcnRvb24tbmV0LXByb2QtZHViLnNoYWhpZC5uZXQvb3V0L3YxL2RjNGFhODczNzIzNzQzMjVhNjZiZTQ1OGYyOWVhYjBmL2luZGV4Lm0zdTg_ZmlsdGVyPTE0NF8xMDgwIn0.wsiyV1DWhoebpP_0i6k2mgCZ57rNkPmqDQ0DM3FyMv0
+
+
+
+#EXTINF:-1 tvg-ID="masr" tvg-name="masr" tvg-logo="" group-title="masr",mbc spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwODUyMTU1NSwiaWF0IjoxNjA4NDg1NTU1LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLXNwYWNldG9vbi1wcm9kLWR1Yi5zaGFoaWQubmV0L291dC92MS82MjQwYjc3M2EzZjM0Y2NhOTVkMTE5ZjllNzZhZWMwMi9pbmRleC5tM3U4P2ZpbHRlcj0xNDRfMTA4MCJ9.kBxuJBx56L8XW1NR9MKoRNyk7u_idn76qSm93eb444c
+
+
+
+#EXTINF:-1 tvg-ID="masr" tvg-name="masr" tvg-logo="" group-title="masr",mbc rotana kids
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8 ?filter=144_1080&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ0b2tlbiIsImlzcyI6IlNIQUhJRCIsImV4cCI6MTYwODUyMjA5OSwiaWF0IjoxNjA4NDg2MDk5LCJqdGkiOiIxIiwidXJsIjoiaHR0cHM6Ly9zaGxzLXJvdGFuYWtpZHMtcHJvZC1kdWIuc2hhaGlkLm5ldC9vdXQvdjEvZGY2ZTBlYjNjZGM0NDEwYjk4MjA5YWFmYzg2NzdjZWYvaW5kZXgubTN1OD9maWx0ZXI9MTQ0XzEwODAifQ.o28nKuAeGSaS9xIf73ToZEDoYfoshNxhohPnurog2SY
+
